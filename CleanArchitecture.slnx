@@ -9,4 +9,7 @@
     <Project Path="CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj" />
     <Project Path="CleanArchitecture.WebAPI/CleanArchitecture.WebAPI.csproj" />
   </Folder>
+  <Folder Name="/test/">
+    <Project Path="CleanArchitecture.UnitTest/CleanArchitecture.UnitTest.csproj" Id="5b8c7f97-66fe-414b-9beb-424827376772" />
+  </Folder>
 </Solution>
