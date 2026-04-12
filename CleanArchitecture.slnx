@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="CleanArchitecture.Application/CleanArchitecture.Application.csproj" />
+    <Project Path="CleanArchitecture.Domain/CleanArchitecture.Domain.csproj" />
+    <Project Path="CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj" />
+    <Project Path="CleanArchitecture.Persistence/CleanArchitecture.Persistence.csproj" />
+    <Project Path="CleanArchitecture.WebAPI/CleanArchitecture.WebAPI.csproj" />
+  </Folder>
+</Solution>
